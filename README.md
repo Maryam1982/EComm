@@ -7,3 +7,5 @@ There are the following features to this e-commerce website:
 5-Visitors can view/edit their shopping Cart.
 
 Note: Database is a simple text file, no DBMS is being used.
+
+The live site is here: https://ecomm-jm3l.onrender.com/
